@@ -197,7 +197,7 @@ The repository uses submodules, which normally are handled directly by the `grun
 be able to work with them manually.
 
 Following are the steps to manually get the submodules:
-
+ 
 ```bash
 git clone https://github.com/jquery/jquery.git
 cd jquery
